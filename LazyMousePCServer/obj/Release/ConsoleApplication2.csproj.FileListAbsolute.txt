@@ -1,0 +1,13 @@
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+E:\Work\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\Work\Purana\dBapp\ConsoleApplication2\ConsoleApplication2\bin\Release\LazyMousePCServer.exe.config
